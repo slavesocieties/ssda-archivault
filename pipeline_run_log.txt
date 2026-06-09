@@ -1,0 +1,1 @@
+[2026-06-09 13:25:36] Multi-job run complete. Total duration: 1748.47 seconds | Total volumes processed: 5 | Total images processed: 1917 | Job details: 39016 (84 images in 79.82s), 740055 (590 images in 199.18s), 701139 (474 images in 524.90s), 740070 (262 images in 438.76s), 124752 (507 images in 502.64s)
